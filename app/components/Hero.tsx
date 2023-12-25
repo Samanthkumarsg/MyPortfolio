@@ -13,7 +13,7 @@ export const HeroSection = () => {
 
             <div className="bg-black p-6 flex flex-col items-end justify-center gap-6">
                 <h1 className="text-gray-50  text-3xl hover:text-teal-400 tracking-wide transition-all cursor-pointer">Explore Courses</h1>
-                <Link href={'https://github.com'} passHref> <h1 className="text-gray-50  text-3xl hover:text-teal-400 tracking-wide transition-all cursor-pointer">Projects I&apos;ve Built</h1></Link>
+                <Link href={'https://github.com/Samanthkumarsg'} passHref> <h1 className="text-gray-50  text-3xl hover:text-teal-400 tracking-wide transition-all cursor-pointer">Projects I&apos;ve Built</h1></Link>
                 {/* <h1 className="text-gray-50  text-3xl hover:text-teal-400 tracking-wide transition-all cursor-pointer">About Me</h1> */}
                 <h1 className="text-gray-50  text-3xl hover:text-teal-400 tracking-wide transition-all cursor-pointer">Contact</h1>
             </div>
